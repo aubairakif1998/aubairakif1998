@@ -1,29 +1,28 @@
 <h1 align="center">Hi 👋, I'm Aubair Akif</h1>
 <h3 align="center">Full-Stack Software Engineer | Building Scalable Web Apps & AI-Powered Solutions</h3>
 
-<table>
-  <tr>
-    <td>
-      <p>
-        <a href="https://github.com/aubairakif1998">
-          <img src="https://komarev.com/ghpvc/?username=aubairakif1998&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-        </a>
-      </p>
+<p align="center">
+  <a href="https://github.com/aubairakif1998">
+    <img src="https://komarev.com/ghpvc/?username=aubairakif1998&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-      - 🔭 I’m currently working on [**Auto Poster AI**](https://github.com/aubairakif1998/Auto-Poster-Webapp) — a social media automation tool powered by AI  
-      - 🌱 Exploring **Generative & Agentic AI** for business automation  
-      - 💡 Passionate about building products with **React, Next.js, Node.js, PostgreSQL**, and **LLMs**  
-      - 💬 Ask me about:  
-        `React`, `Next.js`, `Python`, `TypeScript`, `PostgreSQL`, `Azure`, `Firebase`, `Flutter`, `LLMs`, `Agentic AI`  
-      - 📫 Reach me at: **aubairakif98@gmail.com**  
-      - 🌐 Portfolio: [aubaircreates.com](https://aubaircreates.com)  
-      - 📄 [View My Resume](https://drive.google.com/file/d/1VaEnZR8O7YSEJpyiZNq1GCN0ALM0KBJM/view?usp=drive_link)
-    </td>
-    <td align="right">
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" alt="coder-gif" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on [**Auto Poster AI**](https://github.com/aubairakif1998/Auto-Poster-Webapp) — a social media automation tool powered by AI  
+- 🌱 Exploring **Generative & Agentic AI** for business automation  
+- 💡 Passionate about building products with **React, Next.js, Node.js, PostgreSQL**, and **LLMs**  
+- 💬 Ask me about:  
+  `React`, `Next.js`, `Python`, `TypeScript`, `PostgreSQL`, `Azure`, `Firebase`, `Flutter`, `LLMs`, `Agentic AI`  
+- 📫 Reach me at: **aubairakif98@gmail.com**  
+- 🌐 Portfolio: [aubaircreates.com](https://aubaircreates.com)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1VaEnZR8O7YSEJpyiZNq1GCN0ALM0KBJM/view?usp=drive_link)
 
 ---
 
@@ -85,9 +84,14 @@
 
 ### 🚀 Notable Projects
 
-- [Auto Poster AI](https://github.com/aubairakif1998/Auto-Poster-Webapp): AI-based content scheduler for creators  
-- [Client Management SaaS](https://github.com/aubairakif1998): Platform for freelancers & small agencies to handle contracts, invoices, and proposals (private repo)
+- 🔥 [Auto Poster AI](https://github.com/aubairakif1998/Auto-Poster-Webapp) — AI-powered content scheduler for creators  
+- 🧾 [Client Management SaaS](https://github.com/aubairakif1998) — Freelancers & agency tool for contracts and invoicing *(private repo)*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Working on AI" />
+</p>
 
 ---
 
-<p align="center"><i>“Build for impact, optimize for scale.”</i></p>
+_“Build for impact, optimize for scale.”_
+

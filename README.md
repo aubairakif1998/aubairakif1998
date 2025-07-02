@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [**Auto Poster AI**](https://github.com/aubairakif1998/Auto-Poster-Webapp) — a social media automation tool powered by AI  
 - 🌱 Exploring **Generative & Agentic AI** for business automation  
-- 💡 Passionate about building products with **React, Next.js, Node.js, PostgreSQL**, and **LLMs**  
+- 💡 Passionate about building products with **React, Next.js, Node.js, PostgreSQL** and **LLMs**  
 - 💬 Ask me about:  
   `React`, `Next.js`, `Python`, `TypeScript`, `PostgreSQL`, `Azure`, `Firebase`, `Flutter`, `LLMs`, `Agentic AI`  
 - 📫 Reach me at: **aubairakif98@gmail.com**  

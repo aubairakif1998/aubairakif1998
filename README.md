@@ -29,11 +29,11 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/aubaircreates" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="aubaircreates" height="30" width="40" />
+  <a href="https://twitter.com/aubaircreates" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/aubair-akif-53bb21179" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="aubair-akif" height="30" width="40" />
+  <a href="https://linkedin.com/in/aubair-akif-53bb21179" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
